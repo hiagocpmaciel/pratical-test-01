@@ -1,7 +1,7 @@
 # pratical-test-01
 
 
-https://github.com/RenatoBrito81/practical-test/blob/main/README.md
+https://github.com/RenatoBrito81/practical-test
 
 
 Section 1:
